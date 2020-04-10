@@ -1,0 +1,11 @@
+Login to Linux Server:
+ssh -i monon.pem ec2-user@mursaleen.selim.online
+sudo -i 
+
+# cat /var/www/html/index.html 
+This is Mursaleen Selim's Website
+
+//=== Remove everything from index.html
+# cat /dev/null > index.html 
+
+

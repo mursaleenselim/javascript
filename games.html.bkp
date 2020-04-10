@@ -1,0 +1,45 @@
+<html>
+<p>What game do you want to play</p>
+<p>click the controls for the games to play them</p>
+
+<p>Tetris</p>
+    <a href="https://www.retrogames.cz/play_1030-NES.php?language=EN">use "z" to tilt object and down to speed fall</a>
+    <hr>
+
+    <p>Pong</p>
+    <a href="https://www.ponggame.org/">use keyboard or mouse</a>
+    <hr>
+ 
+    <p>space invaders</p>
+    <a href=" https://www.retrogames.cz/play_016-NES.php?language=EN">use left and right arrow keys to move and "z" to shoot</a>
+    <hr>
+    
+    <p>asteroids</p>
+    <a href="https://www.echalk.co.uk/amusements/Games/asteroidsClassic/ateroids.html">use arrow keys to navigate and "space" to shoot</a>
+    <hr>
+        
+    <p>Pacman</p>
+    <a href="https://www.echalk.co.uk/amusements/Games/Pacman/pacman.html">use arrow keys to navigate</a>
+    <hr>
+            
+    <p>Donkey Kong</p>
+    <a href="https://www.retrogames.cz/play_001-NES.php?language=EN">use arrow keys to navigate and "x" to jump</a> 
+    <hr>   
+
+    <p>Super Mario Bros</p>
+    <a href="https://www.playemulator.com/nes-online/super-mario-bros/">use arrow keys to navigate and "z" to jump and "x" to shoot fir balls (only when obtained sun flower "x" can be used)</a> 
+    <hr>   
+
+    <p>Break out</p>
+    <a href="https://www.playemulator.com/gbc-online/super-breakout/"> "z" to start and left and right arrow key to move plate </a>
+    hr>   
+
+    <p>Battle zone</p>
+    <a href="https://www.retrogames.cz/play_110-DOS.php?language=EN">use arrow keys to aim and space to shoot</a>
+    <hr>   
+
+                    
+    <p>Berzerk</p>
+    <a href="https://www.retrogames.cz/play_095-Atari2600.php?language=EN">use arrow keys to navigate and "space" to shoot </a>
+    <hr>   
+</html>

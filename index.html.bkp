@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<!— This is a commend and it will be ignored.-->
+<head>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+        <title>Mursaleen's Website</title>
+</head>
+<body>
+<h1>Welcome to Mursaleen's Website</h1>
+<!--<img src="img/cat.jpg" alt="The image is not available at the moment"/>-->
+
+<script>
+    $(function () {
+        $("#includedContent").load("b.html");
+    });
+</script>
+<ul>
+    <li>Stay calm and <i>don't panic</i></li>
+    <li>Stay in touch: mursaleen.selim@gmail.com</li>
+    <p>Join my discord </p>
+    <a href="https://discord.gg/ExzrsSN">Link</a>
+
+    <hr>
+    <p>hi guys Mursaleen here, i know that sometimes you can bored and and don't what to do
+        so i have created this website to play classic games like tetri, pong and space invaders.</p>
+    <p>Enjoy :)</p>
+    <iframe src="games.html" width="840" height="460" style="background-color:azure" allowfullscreen> </iframe>
+
+</ul>
+</body>
+</html>
